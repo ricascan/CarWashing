@@ -1,10 +1,10 @@
 ﻿namespace CarWashing
 {
-    public abstract class CarWasher : ICarWasher
+    public abstract class CarWasherBase : ICarWasher
     {
         private readonly List<ICar> _cars;
 
-        public CarWasher()
+        public CarWasherBase()
         {
             _cars = new List<ICar>();
         }

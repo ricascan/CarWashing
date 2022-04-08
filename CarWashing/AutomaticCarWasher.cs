@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarWashing
 {
-    public class AutomaticCarWasher : CarWasher
+    public class AutomaticCarWasher : CarWasherBase
     {
         protected override string Wash(List<ICar> cars)
         {
