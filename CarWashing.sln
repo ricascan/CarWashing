@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWashing", "CarWashing\CarWashing.csproj", "{9CE03413-60E7-43C1-A1F0-B99DF0244D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWashingTest", "CarWashingTest\CarWashingTest.csproj", "{3F4D4CFE-7A24-4C09-A57C-33432797C242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE03413-60E7-43C1-A1F0-B99DF0244D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE03413-60E7-43C1-A1F0-B99DF0244D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE03413-60E7-43C1-A1F0-B99DF0244D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE03413-60E7-43C1-A1F0-B99DF0244D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4D4CFE-7A24-4C09-A57C-33432797C242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4D4CFE-7A24-4C09-A57C-33432797C242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4D4CFE-7A24-4C09-A57C-33432797C242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4D4CFE-7A24-4C09-A57C-33432797C242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC12B1D6-ABE6-4549-AD46-B9AE4D27D167}
+	EndGlobalSection
+EndGlobal
